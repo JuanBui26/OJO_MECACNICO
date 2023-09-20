@@ -25,6 +25,8 @@ Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
 ![Mechanicla Eye Proyect](https://github.com/JuanBui26/OJO_MECACNICO/blob/main/Animatronic-Eye-with-Arduino.jpg)
 
+![Mechanicla Eye Proyect_1]()
+
 ## Participantes
 - Guillermo Barriga Barriga
 - Juan Esteban Buitrago Carrero
