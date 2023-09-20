@@ -14,3 +14,8 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 [Diagrama de Caja Negra: OJO MECÁNICO](https://excalidraw.com/#room=683a1716a2495e136783,cDyOcVGPRjMT3ET0pJT6bg)
 
 ![Diagrama de Caja Negra](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Diagrama_Caja_Negra_OJO_MEC%C3%81NICO.png)
+
+A este Diagrama se le encontró varios errores por lo que, de acuerdo a las instrucciones e indicaciones del Ingeniero Johnny,
+se acomodó de la siguiente forma:
+
+[Corrección Diagrama de Caja Negra: OJO MECÁNICO]()
