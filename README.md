@@ -9,7 +9,15 @@ los desafíos que enfrentamos como sociedad.
 
 ## Demostración
 
-Si es posible, agrega capturas de pantalla o enlaces a demostraciones para mostrar cómo se ve y funciona tu proyecto.
+En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto en general.
+
+* [Componentes y Materiales](http://www.nilheim.co.uk/latest-projects-and-blog/simplified-3d-printed-animatronic-dual-eye-mechanism)
+
+* [Video de Referencia](https://www.youtube.com/watch?v=Ftt9e8xnKE4&t)
+
+* [Complemento de Componentes y Materiales](https://www.thingiverse.com/thing:1152248)
+
+* [Complemento Video de Referencia](https://www.youtube.com/watch?v=1pl6htepvRo)
 
 ## Participantes
 - Guillermo Barriga Barriga
