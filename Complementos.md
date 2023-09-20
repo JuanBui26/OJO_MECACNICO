@@ -1,6 +1,7 @@
 # COMPLEMENTOS
 
-En este apartado se va a adjuntar aquellos archivos que son base o antecedentes para poder desarrollar satisfactoriamente el proyecto.
+En este apartado se va a adjuntar aquellos archivos que son base o antecedentes para poder desarrollar satisfactoriamente el
+proyecto.
 
 ## Diagrama de Caja Negra
 
