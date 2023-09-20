@@ -19,6 +19,10 @@ En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto
 
 * [Complemento Video de Referencia](https://www.youtube.com/watch?v=1pl6htepvRo)
 
+## Referencia
+
+
+
 ## Participantes
 - Guillermo Barriga Barriga
 - Juan Esteban Buitrago Carrero
@@ -95,6 +99,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
   La colaboración entre instituciones académicas, la industria y organizaciones de salud es esencial en el desarrollo de
   tecnologías oftalmológicas avanzadas. Los proyectos de ojos mecánicos a menudo implican alianzas estratégicas para lograr avances significativos.
 
-  ## Complementos
+  ## Complementos y Anexos
 
-  
+  Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
+  - https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
