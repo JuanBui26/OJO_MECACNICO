@@ -12,3 +12,5 @@ de la ingeniería, como la electrónica, la informática, la mecánica, la ingen
 A continuación se adjunta el enlace al diagrama de caja negra propuesto para este proyecto.
 
 [Diagrama de Caja Negra: OJO MECÁNICO](https://excalidraw.com/#room=683a1716a2495e136783,cDyOcVGPRjMT3ET0pJT6bg)
+
+![Diagrama de Caja Negra]()
