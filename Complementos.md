@@ -18,4 +18,4 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 A este Diagrama se le encontró varios errores por lo que, de acuerdo a las instrucciones e indicaciones del Ingeniero Johnny,
 se acomodó de la siguiente forma:
 
-[Corrección Diagrama de Caja Negra: OJO MECÁNICO]()
+![Corrección Diagrama de Caja Negra: OJO MECÁNICO]()
