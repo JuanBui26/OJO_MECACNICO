@@ -21,7 +21,9 @@ En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto
 
 ## Complementos
 
+Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
+![Mechanicla Eye Proyect](https://github.com/JuanBui26/OJO_MECACNICO/blob/main/Animatronic-Eye-with-Arduino.jpg)
 
 ## Participantes
 - Guillermo Barriga Barriga
