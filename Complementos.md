@@ -20,4 +20,8 @@ se acomodó de la siguiente forma:
 
 ![Corrección Diagrama de Caja Negra: OJO MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/CORRECCI%C3%93N_OJO_MEC%C3%81NICO.png)
 
+[Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
+
+[Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
+
 
