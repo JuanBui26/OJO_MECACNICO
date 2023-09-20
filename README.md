@@ -19,7 +19,7 @@ En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto
 
 * [Complemento Video de Referencia](https://www.youtube.com/watch?v=1pl6htepvRo)
 
-## Referencia
+## Complementos
 
 
 
@@ -99,7 +99,42 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
   La colaboración entre instituciones académicas, la industria y organizaciones de salud es esencial en el desarrollo de
   tecnologías oftalmológicas avanzadas. Los proyectos de ojos mecánicos a menudo implican alianzas estratégicas para lograr avances significativos.
 
-  ## Complementos y Anexos
+  ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
+
+    ### Biomecánica
+  - https://www.technogym.com/mx/wellness/biomechanics-understanding-the-terms-that-make-our-bodies-move/
+ 
+  - https://www.sciencedirect.com/science/article/abs/pii/S1293296515741423
+ 
+  - https://www.sciencedirect.com/science/article/pii/S1607551X11001835
+ 
+  - https://blogs.upm.es/biblioetsidiupm/2022/11/15/que-es-biomecanica/
+ 
+    ### Ingeniería Biomédica
+  - https://www.ingenieriabiomedica.org/queesingenieriabiomedica
+ 
+  - https://urosario.edu.co/ingenieria-biomedica
+
+  - https://www.ces.edu.co/programas/carreras/ingenieria-biomedica/
+
+  - https://umb.edu.co/programa/ingenieria-biomedica/
+ 
+    ### Mechanical Eye
+  - https://www.youtube.com/watch?v=Ftt9e8xnKE4&t
+ 
+  - https://www.youtube.com/watch?v=1pl6htepvRo
+
+    ### Objetivos de Desarrollo Sostenible
   - https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
+ 
+    ### Robótica
+  - https://revistaderobots.com/robots-y-robotica/que-es-la-robotica/
+ 
+  - https://fi.ort.edu.uy/blog/que-es-la-robotica-y-cuales-son-sus-usos
+ 
+  - https://www.bbvaopenmind.com/articulos/robotica-una-decada-de-transformaciones/
+ 
+  - https://courses.minnalearn.com/es/courses/emerging-technologies/robotics-and-automation/introduction-to-robotics-and-automation/
+ 
