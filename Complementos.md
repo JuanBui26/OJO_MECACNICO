@@ -13,4 +13,4 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 
 [Diagrama de Caja Negra: OJO MECÁNICO](https://excalidraw.com/#room=683a1716a2495e136783,cDyOcVGPRjMT3ET0pJT6bg)
 
-![Diagrama de Caja Negra]()
+![Diagrama de Caja Negra](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Animatronic-Eye-with-Arduino.jpg)
