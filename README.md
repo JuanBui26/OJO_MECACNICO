@@ -94,3 +94,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
   
   La colaboración entre instituciones académicas, la industria y organizaciones de salud es esencial en el desarrollo de
   tecnologías oftalmológicas avanzadas. Los proyectos de ojos mecánicos a menudo implican alianzas estratégicas para lograr avances significativos.
+
+  ## Complementos
+
+  
