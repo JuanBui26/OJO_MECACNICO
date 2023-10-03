@@ -10,3 +10,8 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 - [Contenido del Poster](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Instrucciones%20forma%20del%20P%C3%B3ster.pdf)
 
 - [Recomendaciones del Resumen](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Recomendaciones%20resumen.pdf)
+
+Para complementar la información brindada y tener una idea de qué se busca en el encuentro de Ingeniería del 22 al 24 de
+noviembre de 2023 se recomienda revisar el siguiente enlace:
+
+[Proyectos y prototipos Ingeniería UNAL](https://ingenieria.unal.edu.co/proyectos_prototipos/historico)
