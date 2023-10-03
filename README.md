@@ -123,7 +123,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
  
   - https://blogs.upm.es/biblioetsidiupm/2022/11/15/que-es-biomecanica/
  
-    ### Ingeniería Biomédica
+  ### Ingeniería Biomédica
   - https://www.ingenieriabiomedica.org/queesingenieriabiomedica
  
   - https://urosario.edu.co/ingenieria-biomedica
@@ -132,15 +132,15 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
 
   - https://umb.edu.co/programa/ingenieria-biomedica/
  
-    ### Mechanical Eye
+  ### Mechanical Eye
   - https://www.youtube.com/watch?v=Ftt9e8xnKE4&t
  
   - https://www.youtube.com/watch?v=1pl6htepvRo
 
-    ### Objetivos de Desarrollo Sostenible
+  ### Objetivos de Desarrollo Sostenible
   - https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
  
-    ### Robótica
+  ### Robótica
   - https://revistaderobots.com/robots-y-robotica/que-es-la-robotica/
  
   - https://fi.ort.edu.uy/blog/que-es-la-robotica-y-cuales-son-sus-usos
