@@ -7,6 +7,6 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 
 - [Guía de Espositores]()
 
-- [Contenido del Poster]() y [Forma del Poster]()
+- [Contenido del Poster](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster]()
 
 - [Recomendaciones del Resumen]()
