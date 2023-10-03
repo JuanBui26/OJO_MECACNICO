@@ -110,6 +110,18 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
   La colaboración entre instituciones académicas, la industria y organizaciones de salud es esencial en el desarrollo de
   tecnologías oftalmológicas avanzadas. Los proyectos de ojos mecánicos a menudo implican alianzas estratégicas para lograr avances significativos.
 
+  ## Ingenia Futuro
+
+  Como parte de los objetivos de interdisciplinareidad de la carrera, se busca la participación del equipo de trabajo en la
+  feria de proyectos Ingenia Futuro.
+  Para esto y para poder lograr una exitosa participación, se busca que los estudiantes sigan las indicacones,
+  recomendaciones, y talleres que ofrece el Programa de Formación Integral de la Universidad Nacional de Colombia - Sede
+  Bogotá.
+
+  Los avances y evidencias de esta participación se eencuentran en la siguiente carpeta:
+
+  - [Ingenia Futuro](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Ponencia.md)
+
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
