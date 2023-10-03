@@ -12,7 +12,7 @@ de la ingeniería, como la electrónica, la informática, la mecánica, la ingen
 
 A continuación se adjunta el enlace al diagrama de caja negra propuesto para este proyecto.
 
-[Diagrama de Caja Negra: OJO MECÁNICO](https://excalidraw.com/#room=683a1716a2495e136783,cDyOcVGPRjMT3ET0pJT6bg)
+- [Diagrama de Caja Negra: OJO MECÁNICO](https://excalidraw.com/#room=683a1716a2495e136783,cDyOcVGPRjMT3ET0pJT6bg)
 
 ![Diagrama de Caja Negra](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Diagrama_Caja_Negra_OJO_MEC%C3%81NICO.png)
 
@@ -23,11 +23,11 @@ se acomodó de la siguiente forma:
 
 ![Corrección Diagrama de Caja Negra: OJO MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/CORRECCI%C3%93N_OJO_MEC%C3%81NICO.png)
 
-- [Corrección de Elementos](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
+- [Corrección de Componentes](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
 
 ![Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
 
-- [Corrección Gráfica](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
+- [Corrección Diagrama Tecnológico](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
 
 ![Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
 
