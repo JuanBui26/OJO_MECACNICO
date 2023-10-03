@@ -19,13 +19,15 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 A este Diagrama se le encontró varios errores por lo que, de acuerdo a las instrucciones e indicaciones del Ingeniero Johnny,
 se acomodó de la siguiente forma:
 
+- [Corrección Diagrama de Caja Negra](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
+
 ![Corrección Diagrama de Caja Negra: OJO MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/CORRECCI%C3%93N_OJO_MEC%C3%81NICO.png)
 
-- Corrección de Elementos
+- [Corrección de Elementos](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
 
 ![Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_1.png)
 
-- Corrección Gráfica
+- [Corrección Gráfica](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
 
 ![Corrección_1_OJO_MECÁNICO](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Correcci%C3%B3n_2.png)
 
