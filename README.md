@@ -27,10 +27,12 @@ Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
 ![Mechanicla Eye Proyect_1](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Imagen%20de%20Referencia.webp)
 
-Del mismo modo, se da la direcci+on para poder dirigirse a los diagramas de Caja Negra, Diagrama Tdcnol+ogico y sus
+Del mismo modo, se da la dirección para poder dirigirse a los diagramas de Caja Negra, Diagrama Tdcnol+ogico y sus
 correciones.
 
 - [Complementos](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Complementos.md)
+
+En este mismo apartado se adjuntan los avances que se vayan realizando en el desarollo y avance del proyecto.
 
 ## Participantes
 - Guillermo Barriga Barriga
