@@ -19,13 +19,18 @@ En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto
 
 * [Complemento Video de Referencia](https://www.youtube.com/watch?v=1pl6htepvRo)
 
-## Complementos
+## Anexos
 
 Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
 ![Mechanicla Eye Proyect](https://github.com/JuanBui26/OJO_MECACNICO/blob/main/Animatronic-Eye-with-Arduino.jpg)
 
 ![Mechanicla Eye Proyect_1](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Imagen%20de%20Referencia.webp)
+
+Del mismo modo, se da la direcci+on para poder dirigirse a los diagramas de Caja Negra, Diagrama Tdcnol+ogico y sus
+correciones.
+
+- [Complementos] ()
 
 ## Participantes
 - Guillermo Barriga Barriga
