@@ -30,7 +30,7 @@ Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 Del mismo modo, se da la direcci+on para poder dirigirse a los diagramas de Caja Negra, Diagrama Tdcnol+ogico y sus
 correciones.
 
-- [Complementos] ()
+- [Complementos] (https://github.com/JuanBui26/OJO_MECANICO/blob/main/Complementos.md)
 
 ## Participantes
 - Guillermo Barriga Barriga
