@@ -5,7 +5,7 @@ de Ingenia Futuro, un espacio para compartir conocimientos producidos por la com
 varios de sus niveles de formación. Se trata de un evento que, por partes iguales, privilegia el desarrollo técnico de las 
 ingenierías y fomenta las habilidades sociales y comunicativas, así como la reflexión ética y la proyección social. 
 
-- [Guía de Espositores](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Protocolo%20Encuentro%202023-2S.pdf)
+- [Guía de Expositores](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Protocolo%20Encuentro%202023-2S.pdf)
 
 - [Contenido del Poster](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Instrucciones%20forma%20del%20P%C3%B3ster.pdf)
 
