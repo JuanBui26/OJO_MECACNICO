@@ -144,6 +144,14 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
 
 - Investigación y desarrollo: En la investigación científica y el desarrollo de productos, las simulaciones son esenciales para comprender y modelar fenómenos complejos, como la dinámica de fluidos, la respuesta de materiales a condiciones extremas y el comportamiento de sistemas electromagnéticos.
 
+En los siguientes enlaces, se presentan algunas de las simulaciones utilizadas usando [Wokwi.com](https://wokwi.com/)
+
+#### - [2 Servos 1 Pulsador](https://wokwi.com/projects/379853893742213121)
+
+#### - [2 Servos 1 Potenciómetro](https://wokwi.com/projects/379529363274983425)
+
+#### - [6 Servos 2 potenciómetors 1 Pulsador](https://wokwi.com/projects/379859813195141121)
+
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
