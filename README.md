@@ -122,6 +122,28 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
 
   - [Ingenia Futuro](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Ponencia.md)
 
+## Siumlaciones
+
+  Parte del trabajo que se debe ralizar en un proyecto de ingeniería son las simulaciones; estas nos permiten saber como funcionará el artefacto antes de fabricarlo y poder ver qué es lo que es necesario cambiar o mejorar.
+
+  Las simulaciones desempeñan un papel crucial en la ingeniería por varias razones:
+
+- Diseño y prototipado virtual: Las simulaciones permiten a los ingenieros diseñar y probar sistemas, productos y estructuras de manera virtual antes de construir un prototipo físico. Esto ahorra tiempo y recursos al identificar y corregir posibles problemas antes de la fabricación.
+
+- Reducción de costos: Al prevenir fallos en etapas tempranas del diseño, las simulaciones pueden ahorrar costos significativos al evitar la necesidad de rehacer o modificar productos o procesos una vez que están en producción.
+
+- Seguridad: Las simulaciones ayudan a evaluar la seguridad de estructuras y sistemas, lo que es crítico en campos como la ingeniería civil, aeroespacial y nuclear. Pueden prever cómo responderán los materiales y las estructuras bajo diversas condiciones de carga y estrés.
+
+- Optimización: Las simulaciones permiten a los ingenieros ajustar y optimizar sistemas para mejorar su rendimiento. Esto es especialmente útil en campos como la ingeniería de software, donde se pueden realizar pruebas exhaustivas para identificar y resolver problemas de rendimiento.
+
+- Experimentación controlada: En situaciones donde la experimentación en el mundo real es costosa o peligrosa, como en la investigación nuclear o aeroespacial, las simulaciones proporcionan un medio seguro y controlado para realizar experimentos.
+
+- Formación y educación: Las simulaciones son una herramienta valiosa para la formación de ingenieros y estudiantes, ya que pueden experimentar con conceptos y teorías de una manera interactiva y práctica.
+
+- Predicción de comportamiento: Las simulaciones permiten predecir cómo funcionarán sistemas complejos en el mundo real, lo que es especialmente útil en la ingeniería de software, donde se pueden probar algoritmos y modelos antes de implementarlos.
+
+- Investigación y desarrollo: En la investigación científica y el desarrollo de productos, las simulaciones son esenciales para comprender y modelar fenómenos complejos, como la dinámica de fluidos, la respuesta de materiales a condiciones extremas y el comportamiento de sistemas electromagnéticos.
+
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
