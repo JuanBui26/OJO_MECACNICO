@@ -166,6 +166,9 @@ Algunos de estos canales son:
 
 Wokwi.com es una plataforma en línea que ofrece un entorno de desarrollo y simulación de hardware electrónico. Permite a los entusiastas, estudiantes y profesionales de la electrónica diseñar, crear y simular circuitos electrónicos de manera virtual. La plataforma ofrece una amplia variedad de componentes electrónicos, como microcontroladores, sensores, actuadores y más, que los usuarios pueden arrastrar y soltar en un lienzo virtual para construir circuitos personalizados. Además, Wokwi.com proporciona herramientas de simulación en tiempo real que permiten a los usuarios probar y depurar sus diseños electrónicos antes de implementarlos en hardware real. Es una herramienta valiosa para la enseñanza, el prototipado rápido y la experimentación en el campo de la electrónica.
 
+  ### Acercamientos
+
+  Los acercamientos realizados se presentan el la carpeta [Simulaciones](https://github.com/JuanBui26/OJO_MECANICO/tree/main/Simulaciones).
 
   ## Referencias
 
