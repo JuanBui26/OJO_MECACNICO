@@ -152,6 +152,19 @@ En los siguientes enlaces, se presentan algunas de las simulaciones utilizadas u
 
 #### - [6 Servos 2 potenciómetors 1 Pulsador](https://wokwi.com/projects/379859813195141121)
 
+Es importante aclarar que mucho de lo desarrollado se ha realizado gracias a diversos canales de Youtube en los cuales se encuentran muchos más tutoriales de diversos anexos y programaciones de un manejo más completo de las distintas tarjetas (ESP 32 Wroom 32D, Arduino UNO, etc).
+
+Algunos de estos canales son:
+
+##### -[Cisco Bogotá](https://www.youtube.com/@ciscobogota)
+##### -[DroneBot Workshop](https://www.youtube.com/@Dronebotworkshop)
+##### -[Easy Learning](https://www.youtube.com/@esp32)
+##### -[Ingeniero en Casa](https://www.youtube.com/@ingenieroencasa)
+##### -[Programador Novato](https://www.youtube.com/@programadornovato)
+##### -[Robojax](https://www.youtube.com/@robojax)
+##### -[TechToTinker](https://www.youtube.com/@TechToTinker)
+
+
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
