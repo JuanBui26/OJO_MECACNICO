@@ -206,6 +206,10 @@ Las PCB permiten la creación de dispositivos más pequeños y compactos, lo que
 La fabricación de PCBs es un proceso altamente reproducible, lo que facilita la producción en masa de dispositivos electrónicos.
 
 [¿Qué es una PCB?](https://resources.altium.com/es/p/what-is-a-pcb)
+
+Los avances realizados de la PCB en sus diversas fases, cambios y evoluciones se pueden ver en el siguiente enlace: 
+[]()
+
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
