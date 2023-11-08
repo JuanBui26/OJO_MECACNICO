@@ -37,6 +37,7 @@ En este mismo apartado se adjuntan los avances que se vayan realizando en el des
 ## Participantes
 - Guillermo Barriga Barriga
 - Juan Esteban Buitrago Carrero
+- Sebastian Ramiro Pedroza Garnica
 - Cristian Andrés Rojas Carrillo
 
 ## Antecedentes del Proyecto
