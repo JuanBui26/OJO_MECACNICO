@@ -179,6 +179,32 @@ La placa de circuito impreso está construida por capas que se alternan de cobre
 
 La principal función de una PCB es proporcionar un soporte mecánico y eléctrico para componentes electrónicos, así como un medio para conectarlos de manera eficiente.
 
+  ### Conexión de componentes:
+La PCB proporciona un medio para conectar de forma ordenada y eficiente componentes electrónicos como resistencias, transistores, capacitores, microchips, etc. Los circuitos impresos en la PCB permiten la interconexión de estos componentes de acuerdo con el diseño electrónico.
+
+  ### Mejora de la confiabilidad:
+La PCB mejora la confiabilidad de un dispositivo electrónico al evitar conexiones sueltas o cables sueltos que podrían causar problemas eléctricos o mecánicos. Además, ayuda a prevenir cortocircuitos y otros problemas de conexión.
+
+  ### Miniaturización:
+Las PCB permiten la creación de dispositivos electrónicos compactos y livianos al proporcionar un medio para empaquetar componentes de manera eficiente en un espacio limitado.
+
+### Eficiencia eléctrica:
+Los circuitos impresos en la PCB están diseñados para garantizar que las señales eléctricas se transmitan de manera eficiente y con la mínima interferencia electromagnética, lo que contribuye a un rendimiento óptimo.
+
+La importancia que representa este tipo de elementos en los distintos proyectos de ingeiería eléctrica, electrónica y afines es:
+
+### Facilitan el diseño y la fabricación:
+Las PCB permiten a los diseñadores electrónicos crear circuitos complejos de manera más rápida y sencilla que si tuvieran que realizar conexiones manuales. Esto acelera el proceso de desarrollo de productos electrónicos.
+
+### Reducción de errores:
+Al utilizar PCBs, se minimizan los errores de cableado y conexión, lo que aumenta la confiabilidad de los dispositivos electrónicos y reduce el tiempo y los costos de reparación.
+
+### Permiten la miniaturización:
+Las PCB permiten la creación de dispositivos más pequeños y compactos, lo que es especialmente importante en aplicaciones donde el espacio es limitado.
+
+### Reproducibilidad y escalabilidad:
+La fabricación de PCBs es un proceso altamente reproducible, lo que facilita la producción en masa de dispositivos electrónicos.
+
 [¿Qué es una PCB?](https://resources.altium.com/es/p/what-is-a-pcb)
   ## Referencias
 
