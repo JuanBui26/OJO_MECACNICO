@@ -122,7 +122,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
 
   - [Ingenia Futuro](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Ponencia.md)
 
-## Siumlaciones
+## Simulaciones
 
   Parte del trabajo que se debe ralizar en un proyecto de ingeniería son las simulaciones; estas nos permiten saber como funcionará el artefacto antes de fabricarlo y poder ver qué es lo que es necesario cambiar o mejorar.
 
@@ -170,6 +170,16 @@ Wokwi.com es una plataforma en línea que ofrece un entorno de desarrollo y simu
 
   Los acercamientos realizados se presentan el la carpeta [Simulaciones](https://github.com/JuanBui26/OJO_MECANICO/tree/main/Simulaciones).
 
+  ## Desarrollo PCB
+
+  
+Una PCB, o Placa de Circuito Impreso, es un componente fundamental en la mayoría de los dispositivos electrónicos. Es un sustrato plano generalmente hecho de un material no conductor, como fibra de vidrio, con una capa de cobre laminado en una o ambas caras. En esta capa de cobre se graban circuitos eléctricos, a menudo mediante procesos químicos, para conectar componentes electrónicos.
+
+La placa de circuito impreso está construida por capas que se alternan de cobre conductor con capas de material aislante no conductor. Durante la fabricación de la PCB, se graban las capas de cobre internas dejando trazas de cobre intencionadas para conectar los componentes de circuito. Una vez laminado el material de aislamiento este es grabado a las capas de cobre y así sucesivamente, hasta que la placa de circuito impreso esté completa.
+
+La principal función de una PCB es proporcionar un soporte mecánico y eléctrico para componentes electrónicos, así como un medio para conectarlos de manera eficiente.
+
+[¿Qué es una PCB?](https://resources.altium.com/es/p/what-is-a-pcb)
   ## Referencias
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
