@@ -62,7 +62,7 @@ Yahiko Electrónica
 
 [WhatsApp](https://api.whatsapp.com/send?phone=573153881865)
 
-[yahikoelectronica@hotmail.com](yahikoelectronica@hotmail.com)
+Correo: yahikoelectronica@hotmail.com
 
 ## Archivos
 
