@@ -26,19 +26,41 @@ En estas entrega, incialmente se propuso una conexión derecta entre los compone
 En este segundo avance se presenta una nueva alternativa haciendo uso de sockets de 3 pines para los servomotores. Se presenta el mismo problema en el esquemático que es el exceso de cables y el poco entendimiento que esto representa. Así  mismo, el conector Jack utilizado no es el indicado y se hace necesario cambiarlo.
 
 - ### Tercer Avance
-![]()
+#### Ruteo
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-03%20191734.png)
 
+En este tercer avance se realizaron los cambios necesarios para las rutas de información o corriente. Particularmente, cambió el tamaño de las pistas tanto para las rutas de POWER como las de Información. se utilizó caminos por dos caras, lo cual hace un poco más costosa la PCB.
 
 - ### Cuarto Avance
-![]()
+#### Ruteo 1
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20092746.png)
+#### Ruteo Final
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20220111.png)
 
+Ya en este avance se presentó el último diseño que se va a utilizar, la cuestión es que se trabajó en la cara contraria (frontal) por lo que para poder ser completamente viable, es decir que los elementos queden en la cara superior y los caminos en la inferior.
 
 - ### Quinto Avance
-![]()
+#### Esquemático Final
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20220311.png)
+#### Ruteo
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20222728.png)
+#### PCB Elementos
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20222909.png)
+#### Zona de Cobre
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20233544.png)
+#### PCB Posterior
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20233649.png)
+#### PCB Frontal No Elementos y Nombres
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20233649.png)
+#### PCB Frontal Elementos y Nombres
+![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-04%20233846.png)
 
+En esta última iteración ya se muestra como se espera que quede el archivo completo, las zonas de cobre, el esquemático y la PCB con elementos y son elementos.
+Ya con esto se da por concluida esta parte y se busca contactar a la empresa encargada de la impresión/corte de la PCB.
 
-- ### Sexto Avance
-![]()
+Yahiko Electrónica
+[WhatsApp](https://api.whatsapp.com/send?phone=573153881865)
+[](yahikoelectronica@hotmail.com)
 
 ## Archivos
 
