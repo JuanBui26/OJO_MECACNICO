@@ -215,7 +215,7 @@ Los avances realizados de la PCB en sus diversas fases, cambios y evoluciones se
 
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
 
-    ### Biomecánica
+  ### Biomecánica
   - https://www.technogym.com/mx/wellness/biomechanics-understanding-the-terms-that-make-our-bodies-move/
  
   - https://www.sciencedirect.com/science/article/abs/pii/S1293296515741423
