@@ -209,7 +209,7 @@ La fabricación de PCBs es un proceso altamente reproducible, lo que facilita la
 [¿Qué es una PCB?](https://resources.altium.com/es/p/what-is-a-pcb)
 
 Los avances realizados de la PCB en sus diversas fases, cambios y evoluciones se pueden ver en el siguiente enlace: 
-[]()
+[PCB Ojo Animatrónico](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/pcb.md)
 
   ## Referencias
 
