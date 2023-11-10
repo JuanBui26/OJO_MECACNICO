@@ -14,9 +14,13 @@ En estas entrega, incialmente se propuso una conexión derecta entre los compone
 #### Esquemático
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20223843.png)
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20223859.png)
+#### Ruteo
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20223912.png)
+#### PCB Frente
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20224015.png)
+#### PCB Posterior
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20224030.png)
+#### PCB Elementos
 ![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Captura%20de%20pantalla%202023-11-02%20224153.png)
 
 En este segundo avance se presenta una nueva alternativa haciendo uso de sockets de 3 pines para los servomotores. Se presenta el mismo problema en el esquemático que es el exceso de cables y el poco entendimiento que esto representa. Así  mismo, el conector Jack utilizado no es el indicado y se hace necesario cambiarlo.
