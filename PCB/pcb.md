@@ -59,8 +59,10 @@ En esta última iteración ya se muestra como se espera que quede el archivo com
 Ya con esto se da por concluida esta parte y se busca contactar a la empresa encargada de la impresión/corte de la PCB.
 
 Yahiko Electrónica
+
 [WhatsApp](https://api.whatsapp.com/send?phone=573153881865)
-[Correo](yahikoelectronica@hotmail.com)
+
+[yahikoelectronica@hotmail.com](yahikoelectronica@hotmail.com)
 
 ## Archivos
 
