@@ -39,3 +39,9 @@ En este segundo avance se presenta una nueva alternativa haciendo uso de sockets
 
 - ### Sexto Avance
 ![]()
+
+## Archivos
+
+Los archivos finales se encuentran en el siguiente enlace:
+
+[Archivos PCB](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/Archivos_PCB/Archivos.md)
