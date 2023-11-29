@@ -64,6 +64,14 @@ Yahiko Electrónica
 
 Correo: yahikoelectronica@hotmail.com
 
+
+## PCB Soldada
+
+Con la ayuda de Alexa se logró dar solución a uno de los mayores retods del proyecto, lograr una buena y corrcta soldadura. 
+Los resultados se oueden ver a continuación:
+
+![Cara Frontal](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/WhatsApp%20Image%202023-11-15%20at%2018.14.18.jpeg)
+![Zona de GND]()
 ## Archivos
 
 Los archivos finales se encuentran en el siguiente enlace:
