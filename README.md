@@ -42,40 +42,22 @@ En este mismo apartado se adjuntan los avances que se vayan realizando en el des
 
 ## Antecedentes del Proyecto
 
-En la era moderna, la tecnología ha transformado la forma en que vivimos y trabajamos, y tres campos destacan en la vanguardia de esta revolución: la robótica, la
-ingeniería biomédica y la biomecánica. Estas disciplinas interconectadas desempeñan un papel fundamental en nuestra sociedad, mejorando la calidad de vida, impulsando la
-atención médica y permitiendo avances en diversas industrias.
+En la era moderna, la tecnología ha transformado la forma en que vivimos y trabajamos, y tres campos destacan en la vanguardia de esta revolución: la robótica, la ingeniería biomédica y la biomecánica. Estas disciplinas interconectadas desempeñan un papel fundamental en nuestra sociedad, mejorando la calidad de vida, impulsando la atención médica y permitiendo avances en diversas industrias.
 
-La robótica, una ciencia que combina la ingeniería mecánica, la electrónica y la informática, ha dejado de ser una mera fantasía de ciencia ficción para convertirse en una
-realidad omnipresente. Los robots desempeñan un papel esencial en la fabricación automatizada, la logística y la exploración espacial. En la industria médica, los robots
-quirúrgicos de última generación permiten procedimientos más precisos y menos invasivos, reduciendo el tiempo de recuperación de los pacientes. Además, los robots de
-asistencia personal están ayudando a las personas con discapacidades a recuperar la independencia y la movilidad. La robótica es una fuerza motriz detrás de la eficiencia y
-la innovación en la economía global.
+La robótica, una ciencia que combina la ingeniería mecánica, la electrónica y la informática, ha dejado de ser una mera fantasía de ciencia ficción para convertirse en una realidad omnipresente. Los robots desempeñan un papel esencial en la fabricación automatizada, la logística y la exploración espacial. En la industria médica, los robots quirúrgicos de última generación permiten procedimientos más precisos y menos invasivos, reduciendo el tiempo de recuperación de los pacientes. Además, los robots de asistencia personal están ayudando a las personas con discapacidades a recuperar la independencia y la movilidad. La robótica es una fuerza motriz detrás de la eficiencia y la innovación en la economía global.
 
-La ingeniería biomédica se enfoca en aplicar principios de la ingeniería a la medicina y la biología. En la actualidad, esta disciplina desempeña un papel crucial en la
-creación de dispositivos médicos avanzados, el desarrollo de técnicas de imagen de vanguardia y la investigación de terapias y tratamientos innovadores. Desde marcapasos y
-prótesis personalizadas hasta sistemas de telemedicina y terapia génica, la ingeniería biomédica ha revolucionado la atención médica, mejorando la detección temprana y el
-tratamiento de enfermedades.
+La ingeniería biomédica se enfoca en aplicar principios de la ingeniería a la medicina y la biología. En la actualidad, esta disciplina desempeña un papel crucial en la creación de dispositivos médicos avanzados, el desarrollo de técnicas de imagen de vanguardia y la investigación de terapias y tratamientos innovadores. Desde marcapasos y prótesis personalizadas hasta sistemas de telemedicina y terapia génica, la ingeniería biomédica ha revolucionado la atención médica, mejorando la detección temprana y el tratamiento de enfermedades.
 
-La biomecánica es otra disciplina interdisciplinaria que se ha vuelto cada vez más relevante en nuestra sociedad. Se centra en el estudio de los sistemas biológicos desde
-una perspectiva mecánica. Esto ha permitido avances en la ergonomía, el diseño de productos y la prevención de lesiones. Por ejemplo, en la industria del deporte, la
-biomecánica ha ayudado a los atletas a mejorar su rendimiento y a reducir el riesgo de lesiones mediante el análisis detallado del movimiento humano.
+La biomecánica es otra disciplina interdisciplinaria que se ha vuelto cada vez más relevante en nuestra sociedad. Se centra en el estudio de los sistemas biológicos desde una perspectiva mecánica. Esto ha permitido avances en la ergonomía, el diseño de productos y la prevención de lesiones. Por ejemplo, en la industria del deporte, la biomecánica ha ayudado a los atletas a mejorar su rendimiento y a reducir el riesgo de lesiones mediante el análisis detallado del movimiento humano.
 
-En la intersección de la robótica, la ingeniería biomédica y la biomecánica, los ojos mecánicos representan una maravilla tecnológica que ha revolucionado nuestra
-comprensión del mundo y ha tenido un impacto profundo en diversas áreas de la vida moderna.
+En la intersección de la robótica, la ingeniería biomédica y la biomecánica, los ojos mecánicos representan una maravilla tecnológica que ha revolucionado nuestra comprensión del mundo y ha tenido un impacto profundo en diversas áreas de la vida moderna.
 
-Los ojos mecánicos, o sistemas de visión artificial, son dispositivos que imitan la función visual humana utilizando avanzados sensores y algoritmos de procesamiento de
-imágenes. Su relevancia en la robótica es innegable. Estos sistemas permiten a los robots "ver" su entorno y tomar decisiones en tiempo real, lo que es esencial para la
-navegación autónoma, la manipulación precisa de objetos y la colaboración segura con humanos en entornos diversos, desde fábricas hasta hospitales.
+Los ojos mecánicos, o sistemas de visión artificial, son dispositivos que imitan la función visual humana utilizando avanzados sensores y algoritmos de procesamiento de imágenes. Su relevancia en la robótica es innegable. Estos sistemas permiten a los robots "ver" su entorno y tomar decisiones en tiempo real, lo que es esencial para la navegación autónoma, la manipulación precisa de objetos y la colaboración segura con humanos en entornos diversos, desde fábricas hasta hospitales.
 
-En el campo de la ingeniería biomédica, los ojos mecánicos desempeñan un papel fundamental en la creación de dispositivos médicos de diagnóstico y monitorización. Por
-ejemplo, las cámaras endoscópicas y los microscopios quirúrgicos con visión artificial permiten a los profesionales de la salud llevar a cabo procedimientos menos invasivos
-y más precisos. Además, la visión artificial se utiliza en la interpretación de imágenes médicas, lo que facilita la detección temprana de enfermedades y la planificación
+En el campo de la ingeniería biomédica, los ojos mecánicos desempeñan un papel fundamental en la creación de dispositivos médicos de diagnóstico y monitorización. Por ejemplo, las cámaras endoscópicas y los microscopios quirúrgicos con visión artificial permiten a los profesionales de la salud llevar a cabo procedimientos menos invasivos y más precisos. Además, la visión artificial se utiliza en la interpretación de imágenes médicas, lo que facilita la detección temprana de enfermedades y la planificación
 de tratamientos personalizados.
 
-En el ámbito de la biomecánica, los ojos mecánicos se emplean para analizar y comprender el movimiento humano. Los sistemas de seguimiento ocular y las cámaras de alta
-velocidad capturan datos precisos sobre cómo los ojos y el cuerpo se mueven durante la actividad física. Esta información es valiosa para optimizar el rendimiento
-deportivo, mejorar la ergonomía en entornos de trabajo y diseñar dispositivos médicos adaptados a las necesidades individuales.
+En el ámbito de la biomecánica, los ojos mecánicos se emplean para analizar y comprender el movimiento humano. Los sistemas de seguimiento ocular y las cámaras de alta velocidad capturan datos precisos sobre cómo los ojos y el cuerpo se mueven durante la actividad física. Esta información es valiosa para optimizar el rendimiento deportivo, mejorar la ergonomía en entornos de trabajo y diseñar dispositivos médicos adaptados a las necesidades individuales.
 
 ## Objetivos de Desarrollo Sostenible
 
