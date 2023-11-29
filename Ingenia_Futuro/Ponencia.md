@@ -13,8 +13,8 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 
 A continuación se presentan el poster y resumen realizados y entregados para la feria de ingenia futuro:
 
-# [Poster]()
-# [Resumen]()
+### [Poster]()
+### [Resumen]()
 
 Para complementar la información brindada y tener una idea de qué se busca en el encuentro de Ingeniería del 22 al 24 de
 noviembre de 2023 se recomienda revisar el siguiente enlace:
