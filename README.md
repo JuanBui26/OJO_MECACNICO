@@ -141,7 +141,7 @@ Es importante aclarar que mucho de lo desarrollado se ha realizado gracias a div
 
 Se presenta un pequeño video de funcionamiento del prototipo construido a la fecha con la corrección del código de .ino a .py.
 
-![](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Simulaciones/WhatsApp%20Video%202023-11-29%20at%2010.43.30.mp4)
+[Video de Funcionamiento 2023-11-29](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Simulaciones/WhatsApp%20Video%202023-11-29%20at%2010.43.30.mp4)
 
 Algunos de estos canales son:
 
