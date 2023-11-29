@@ -141,7 +141,14 @@ Es importante aclarar que mucho de lo desarrollado se ha realizado gracias a div
 
 Se presenta un pequeño video de funcionamiento del prototipo construido a la fecha con la corrección del código de .ino a .py.
 
-[Video de Funcionamiento 2023-11-29](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Simulaciones/WhatsApp%20Video%202023-11-29%20at%2010.43.30.mp4)
+![Video de Funcionamiento 2023-11-29](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Simulaciones/WhatsApp%20Video%202023-11-29%20at%2010.43.30.mp4)
+
+
+### Código Utilizado
+
+En el siguiente enlace se provee la dirección que redirecciona al código utilizado para el desarrollo del proyecto.
+
+
 
 Algunos de estos canales son:
 
@@ -158,6 +165,8 @@ Wokwi.com es una plataforma en línea que ofrece un entorno de desarrollo y simu
   ### Acercamientos
 
   Los acercamientos realizados se presentan el la carpeta [Simulaciones](https://github.com/JuanBui26/OJO_MECANICO/tree/main/Simulaciones).
+
+  
 
   ## Desarrollo PCB
 
