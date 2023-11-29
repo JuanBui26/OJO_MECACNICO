@@ -137,6 +137,10 @@ En los siguientes enlaces, se presentan algunas de las simulaciones utilizadas u
 
 Es importante aclarar que mucho de lo desarrollado se ha realizado gracias a diversos canales de Youtube en los cuales se encuentran muchos más tutoriales de diversos anexos y programaciones de un manejo más completo de las distintas tarjetas (ESP 32 Wroom 32D, Arduino UNO, etc).
 
+### Funcionamiento
+
+Se presenta un pequeño video de funcionamiento del prototipo construido a la fecha con la corrección del código de .ino a .py.
+
 Algunos de estos canales son:
 
 ##### -[Cisco Bogotá](https://www.youtube.com/@ciscobogota)
