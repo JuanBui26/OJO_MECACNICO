@@ -71,7 +71,7 @@ Con la ayuda de Alexa se logró dar solución a uno de los mayores retods del pr
 Los resultados se oueden ver a continuación:
 
 ![Cara Frontal](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/WhatsApp%20Image%202023-11-15%20at%2018.14.18.jpeg)
-![Zona de GND]()
+![Zona de GND](https://github.com/JuanBui26/OJO_MECANICO/blob/main/PCB/WhatsApp%20Image%202023-11-15%20at%2017.04.56.jpeg)
 ## Archivos
 
 Los archivos finales se encuentran en el siguiente enlace:
