@@ -101,7 +101,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
   recomendaciones, y talleres que ofrece el Programa de Formación Integral de la Universidad Nacional de Colombia - Sede
   Bogotá.
 
-  Los avances y evidencias de esta participación se eencuentran en la siguiente carpeta:
+  Los avances y evidencias de esta participación se encuentran en la siguiente carpeta:
 
   - [Ingenia Futuro](https://github.com/JuanBui26/OJO_MECANICO/blob/main/Ingenia_Futuro/Ponencia.md)
 
