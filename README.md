@@ -148,7 +148,7 @@ Se presenta un pequeño video de funcionamiento del prototipo construido a la fe
 
 En el siguiente enlace se provee la dirección que redirecciona al código utilizado para el desarrollo del proyecto.
 
-
+[Código de Servomotores SG90](https://github.com/JuanBui26/OJO_MECANICO/blob/main/C%C3%B3digo/Servos.py)
 
 Algunos de estos canales son:
 
